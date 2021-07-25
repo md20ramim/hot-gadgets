@@ -1,0 +1,73 @@
+.container{
+    margin-bottom: 100px;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.nav-item{
+    margin-left: 10px;
+}
+button{
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: #fff;
+}
+.orange-bg{
+    background-color: aqua;
+    padding: 20px 40px;
+}
+.red-bg{
+    background-color: deeppink;
+    padding: 20px 40px;
+}
+.black-bg{
+    background-color: chartreuse;
+    padding: 20px 40px;
+}
+.p-1{
+    border: 2px solid black;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-text{
+    margin-bottom: 40px;
+}
+a.see{
+    color: darkorange;
+    font-size: 30px;
+    text-decoration: none;
+}
+.boot{
+    color: darkorange;
+}
+.box{
+    width: 150px;
+    border: 2px solid none;
+    height: 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right,red ,yellow);
+}
+div.perfume , .shoe, .bag{
+    width: 200px;
+    display: flex;
+    align-items: center
+}
+.perfume{
+    margin-bottom: 30px;
+}
+.footer-img{
+    width: 150px;
+    height: 150px;
+}
+.bag{
+    margin-top: 70%;
+}
+.pale{
+    width: 700px;
+}
